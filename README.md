@@ -7,19 +7,19 @@ The app utilizes the SheCodes Weather API to fetch weather data.
 
 Technologies & Tools Used.
 
-React.js
+React.js.
 
-HTML
+HTML.
 
-CSS
+CSS.
 
-JavaScript
+JavaScript.
 
-VS Code
+VS Code.
 
-Weather API
+Weather API.
 
-Installation and Usage
+Installation and Usage.
 
 To use this app, you can follow these steps:
 
