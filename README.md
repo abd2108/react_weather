@@ -17,7 +17,7 @@ JavaScript
 
 VS Code
 
-SheCodes Weather API
+Weather API
 
 Installation and Usage
 
